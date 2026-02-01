@@ -100,20 +100,6 @@ This structure enables **time-based, location-based, and revenue-based analysis*
 * Certain pickup-dropoff pairs consistently generate **higher fare per kilometer**
 * Trips with moderate distance and surge fees contribute the most to total revenue
 
-*(Exact values depend on dataset size and time range)*
-
----
-
-## 💼 Why This Project Is Valuable for Interviews
-
-✔ Demonstrates **strong SQL fundamentals**
-✔ Shows **business-oriented analytical thinking**
-✔ Mimics **real analytics use-cases** from ride-sharing platforms
-✔ Proves ability to convert raw data into **actionable insights**
-
-Recruiters don’t just want SQL queries — they want **answers**.
-This project shows both.
-
 ---
 
 ## 👨‍💻 Author
