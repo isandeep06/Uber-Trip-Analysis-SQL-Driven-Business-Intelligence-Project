@@ -6,8 +6,7 @@
 	<img src="https://img.shields.io/badge/Analysis-Data%20Analytics-success">
 	<img src="https://img.shields.io/badge/Status-Completed-brightgreen">
 </p>
-![Uber Trip Analysis Overview](Images/Overview Dashboard.png)
-
+![Uber Trip Analysis Overview](Images/Overview%20Dashboard.png)
 > 📊 A **business-focused data analytics project** using SQL to analyze Uber trip data, uncover operational insights, revenue patterns, demand trends, and surge-pricing behavior for decision-making.
 
 ---
