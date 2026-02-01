@@ -78,13 +78,20 @@ This structure enables **time-based, location-based, and revenue-based analysis*
 
 ## 📂 Project Structure
 
-| File                     | Description                                  |
-| ------------------------ | -------------------------------------------- |
-| `uber_trip_analysis.sql` | SQL queries answering key business questions |
-| `README.md`              | Project overview and insights                |
-| `dataset/`               | Uber trip data (if included)                 |
+| File/Folder                                   | Description                                  |
+| --------------------------------------------- | -------------------------------------------- |
+| `Sql/uber_trip_analysis_queries.sql`          | SQL queries answering key business questions |
+| `dashboard/Uber Power BI Dashboard.pbix`      | Power BI dashboard file                      |
+| `Dataset/Uber Trip Details.xlsx`              | Trip-level fact data                         |
+| `Dataset/Location Table.xlsx`                 | Location reference data                      |
+| `Images/Overview Dashboard.png`               | Dashboard overview image                     |
+| `Images/Time Analysis.png`                    | Time analysis visual                         |
+| `Images/Details.png`                          | Detailed analysis visual                     |
+| `Images/Models.png`                           | Data model diagram                           |
+| `README.md`                                   | Project overview and insights                |
 
 ---
+
 
 ## 🔍 Sample Insights (Highlights)
 
